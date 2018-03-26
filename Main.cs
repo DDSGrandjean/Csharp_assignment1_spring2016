@@ -8,7 +8,7 @@ using Microsoft.VisualBasic;
 
 namespace ArrayDemo
 {
-    class Program
+    class Main
     {
         static void Main(string[] args)
         {
